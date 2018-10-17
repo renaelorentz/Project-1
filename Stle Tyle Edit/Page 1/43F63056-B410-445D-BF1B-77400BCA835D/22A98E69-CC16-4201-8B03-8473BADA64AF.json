@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "22A98E69-CC16-4201-8B03-8473BADA64AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09D0FBBC-20B2-4C84-B176-48DD3B247957",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C2695DF-8953-410E-B0C6-A2FB85E9F872",
+    "height": 50,
+    "width": 174,
+    "x": 101,
+    "y": 427
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / CREATE ACCOUNT button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C91B3888-4017-4589-82BE-751ED634907C",
+      "overrideName": "1BBE59BA-574F-4E6F-A335-B150FCB079FE_stringValue",
+      "value": "SEND PASSWORD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "282DB69E-A367-43E1-A668-DFF8AA061C82",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "388E0910-2135-4C31-B072-623B8A2B6C8D",
+  "verticalSpacing": 0
+}

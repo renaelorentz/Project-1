@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "17215B89-7A14-4B99-8471-289C13B79BB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DCDA7CF-6C67-4C1E-9D69-875FB47EFF07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60058BE0-88C7-4A2F-8C4E-72F481D3D78C",
+    "height": 24,
+    "width": 255,
+    "x": 60,
+    "y": 328
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / password",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D79E02A9-4187-42DE-934F-B927658544E3",
+      "overrideName": "EE5D806B-FD65-4233-B48C-87EED310C6D2_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CA5B291-F67F-41F8-A68A-522D7BCA0BB3",
+      "overrideName": "3CD486E5-EF37-4C0B-94A4-E00117899841_stringValue",
+      "value": "Email"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7CA7B4F-0ECB-4673-803A-D15421C34818",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15CB3A7F-DAF9-458A-A302-30469AFE189E",
+  "verticalSpacing": 0
+}

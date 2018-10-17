@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6E328D33-3042-444E-8BFD-6095CD323DE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FF50D30-BF9A-457D-A463-BF6E8A18EEB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "341AC172-E7B6-44E1-9BAF-51514E65D769",
+    "height": 15,
+    "width": 159,
+    "x": 60,
+    "y": 561
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / text button copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A303DD1-AAAD-4889-89F1-E03B841E5A41",
+      "overrideName": "DCB825C5-3DB0-40AA-9A4C-46CF32D34AB5_stringValue",
+      "value": "Remember Me"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A69EAFDA-F034-4CD7-A91B-FB6332F88B42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B3D88261-4D30-486A-BF1E-95BCF3FE5AD2",
+  "verticalSpacing": 0
+}

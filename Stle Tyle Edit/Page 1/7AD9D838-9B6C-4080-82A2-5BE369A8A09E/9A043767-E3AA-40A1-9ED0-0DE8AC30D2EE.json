@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9A043767-E3AA-40A1-9ED0-0DE8AC30D2EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E18C15AC-3733-4E21-B89B-5AED5C80BD7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF09640F-D7FF-4108-A68B-38E8484A9C55",
+    "height": 15,
+    "width": 159,
+    "x": 184,
+    "y": 561
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / text button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A303DD1-AAAD-4889-89F1-E03B841E5A41",
+      "overrideName": "DCB825C5-3DB0-40AA-9A4C-46CF32D34AB5_stringValue",
+      "value": "Forgot Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B7CB9FC-292C-468F-9DBF-1B0C05C0837C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B3D88261-4D30-486A-BF1E-95BCF3FE5AD2",
+  "verticalSpacing": 0
+}
